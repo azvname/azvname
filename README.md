@@ -9,7 +9,7 @@
 
 
 
-<img src="https://img.shields.io/static/v1?label=I don't give a fuck&message=you&color=red?style=plastic&logo=appveyor" />
+<img src="https://img.shields.io/static/v1?label=Alright partner..&message=Keep on rollin' baby, you now what time it is&color=red?style=plastic&logo=appveyor" />
 
 
 
