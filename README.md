@@ -9,7 +9,7 @@
 
 
 
-<img src="https://img.shields.io/static/v1?label=hello&message=world&color=red?style=plastic&logo=appveyor" />
+<img src="https://img.shields.io/static/v1?label=I don't give a fuck&message=world&color=red?style=plastic&logo=appveyor" />
 
 
 
