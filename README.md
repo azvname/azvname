@@ -12,10 +12,10 @@
 <!-- <img src="https://img.shields.io/static/v1?label=Alright partner..&message=Keep on rollin' baby, you now what time it is&color=red?style=plastic&logo=appveyor" /> -->
 
 
-- I’m currently working on ...
+<!-- - I’m currently working on ... -->
 - I’m currently learning ...
-- I’m looking to collaborate on ...
-- I’m looking for help with ...
+<!-- - I’m looking to collaborate on ... -->
+<!-- - I’m looking for help with ... -->
 
 <!--
 **onez9/onez9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
